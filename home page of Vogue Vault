@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VogueVault</title>
+	<link rel="stylesheet" href="style.css"> <!-- Link your CSS file -->
+    <link rel="stylesheet" href="Menstyle.css"> <!-- Link your CSS file -->
+</head>
+<body>
+
+    <header>
+        <a> VogueVault</a>
+        <nav>
+			<a href="">VogueVault</a>
+            <a href="Home page.html">Shop</a>
+            <a href="About.html">About Us</a>
+            <a href="Contact us.html">Contact Us</a>
+			<a href="cart2.html">Cart</a>
+        </nav>
+    </header>
+
+    <div class="hero">
+        <h1>Step Into Style with VogueVault</h1>
+        <button>Explore Collections</button>
+    </div>
+
+    <div class="quote-section">
+	     <div class="overlay">
+		 <img src="https://images-platform.99static.com/s_BCedOQVLPGK6yfKtN1R-Igp2k=/96x96:864x864/500x500/top/smart/99designs-contests-attachments/149/149302/attachment_149302427" alt="VogueVault">
+        <h2>"Fashion is the armor to survive the reality of everyday life." – Bill Cunningham</h2>
+        <p>At VogueVault, we blend elegance with comfort, making every outfit a statement.</p>
+		</div>
+    </div>
+
+    <div class="categories">
+    <!-- Men's Category -->
+    <div class="category">
+        <a href="Men's Collection.html">
+            <img src="https://i.pinimg.com/564x/29/84/b9/2984b93aa8cf207d19972db6c6cd7636.jpg" alt="Men's Collection">
+            <div class="overlay">
+                <h2>Men</h2>
+            </div>
+        </a>
+    </div>
+
+    <!-- Women's Category -->
+    <div class="category">
+        <a href="Women's Collection.html">
+            <img src="https://hips.hearstapps.com/hmg-prod/images/hbz080121wellcoverstory-015-1625769283.jpg" alt="Women's Collection">
+            <div class="overlay">
+                <h2>Women</h2>
+            </div>
+        </a>
+    </div>
+
+    <!-- Children's Category -->
+    <div class="category">
+        <a href="children.html">
+            <img src="https://img.freepik.com/free-photo/full-shot-kids-posing-together_23-2149853383.jpg" alt="Children's Collection">
+            <div class="overlay">
+                <h2>Children</h2>
+            </div>
+        </a>
+    </div>
+</div>
+
+
+    <footer>
+        <p>© 2024 VogueVault. All rights reserved.</p>
+    </footer>
+	<script src="java.js"></script> <!-- Link JavaScript file for cart -->
+	
+</body>
+</html>
